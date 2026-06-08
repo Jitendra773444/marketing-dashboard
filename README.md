@@ -3,8 +3,7 @@
 An interactive, data-driven web application designed to track, preprocess, and analyze marketing campaign effectiveness across multiple promotional channels. This application processes historical campaign data to evaluate customer reach, conversion efficiency, and financial return on investment (ROI).
 
 Live Application Link: 
-marketing-dashboardjitendra
-.streamlit.app
+marketing-dashboardjitendra.streamlit.app
 
 ---
 
