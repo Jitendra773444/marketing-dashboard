@@ -21,7 +21,7 @@ st.markdown("---")
 @st.cache_data # Caches data in memory so the interactive dashboard reacts instantly
 def load_and_clean_data():
     # Load the raw dataset
-    df = pd.read_csv('marketing_campaign_dataset.csv')
+    df = pd.read_csv('marketing_campaign_dataset.zip')
     
     # Preprocessing logs from Module 1 & 2
     df['Acquisition_Cost'] = df['Acquisition_Cost'].str.replace('$', '', regex=False)
