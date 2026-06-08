@@ -2,7 +2,8 @@
 
 An interactive, data-driven web application designed to track, preprocess, and analyze marketing campaign effectiveness across multiple promotional channels. This application processes historical campaign data to evaluate customer reach, conversion efficiency, and financial return on investment (ROI).
 
-Live Application Link: **[PASTE YOUR STREAMLIT DEPLOYMENT LINK HERE]**
+Live Application Link: marketing-dashboard-hp4x3fam2zijnfj2irtuvl
+.streamlit.app
 
 ---
 
